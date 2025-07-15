@@ -5,7 +5,7 @@
 
 int main()
 {
-    printf("Welcome to COP2270 C Programming Course 2025");
+    printf("Welcome to COP2270 C Programming Course 2024/2025");
 
     return 0;
 }
